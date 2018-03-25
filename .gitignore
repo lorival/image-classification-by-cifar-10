@@ -8,3 +8,15 @@ __pycache__/
 
 # Visual Studio Code
 .vscode/*
+
+# Others
+.ipynb_checkpoints/*
+checkpoint
+
+cifar-10-batches-py/*
+cifar-10-python.tar.gz
+*.p
+
+image_classification.meta
+image_classification.index
+image_classification.data*
