@@ -47,7 +47,7 @@ or
 > ``` 
 > conda create --name image-classification-by-cifar-10 python=3
 > conda activate image-classification-by-cifar-10
-> conda install numpy jupyter notebook
+> conda install numpy jupyter notebook tqdm tensorflow matplotlib scikit-learn
 > ```
 3. Start jupyter notebook
 > ``` 
