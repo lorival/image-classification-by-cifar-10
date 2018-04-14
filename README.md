@@ -46,7 +46,7 @@ Understand convolutional networks.
 or
 > ``` 
 > conda create --name image-classification-by-cifar-10 python=3
-> conda activate image-classification-by-cifar-10
+> source activate image-classification-by-cifar-10
 > conda install numpy jupyter notebook tqdm tensorflow matplotlib scikit-learn
 > ```
 3. Start jupyter notebook
@@ -58,3 +58,4 @@ or
 ## Author
 
 [Lorival Smolski Chapuis](https://github.com/lorival)
+> This project was developed during the [deep-learning](https://br.udacity.com/course/deep-learning-nanodegree-foundation--nd101) nanodegree from [Udacity](https://br.udacity.com/) 
